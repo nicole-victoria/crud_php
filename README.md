@@ -4,5 +4,7 @@ CRUD é a sigla que corresponde às quatro operações essenciais em aplicaçõe
 * Ler;
 * Atualizar e
 * Excluir.
-Dessa forma, esse é um projeto simples feito para fins de aprendizado e aperfeiçoamento.
+  &nbsp;
+  Assim sendo, esse é um projeto simples feito para fins de aprendizado e aperfeiçoamento.
+  &nbsp;
 _Obs_: A base de dados, bem como a tabela usuário desse projeto, foi criada diretamente no PHPMyAdmin utilizando o servidor local com XAMPPP
